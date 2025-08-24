@@ -1,0 +1,49 @@
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Test Hotmail 2025.exe
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Test Hotmail 2025.deps.json
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Test Hotmail 2025.runtimeconfig.json
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Test Hotmail 2025.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Test Hotmail 2025.pdb
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Bcl.Memory.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Graph.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Graph.Core.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Validators.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Kiota.Abstractions.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Kiota.Authentication.Azure.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Kiota.Serialization.Form.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Kiota.Serialization.Json.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Kiota.Serialization.Multipart.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Microsoft.Kiota.Serialization.Text.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Std.UriTemplate.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\Test Hotmail 2025.csproj.AssemblyReference.cache
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\Test_Hotmail_2025.Form1.resources
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\Test Hotmail 2025.csproj.GenerateResource.cache
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\Test Hotmail 2025.GeneratedMSBuildEditorConfig.editorconfig
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\Test Hotmail 2025.AssemblyInfoInputs.cache
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\Test Hotmail 2025.AssemblyInfo.cs
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\Test Hotmail 2025.csproj.CoreCompileInputs.cache
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\Test Hot.5C05A63C.Up2Date
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\Test Hotmail 2025.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\refint\Test Hotmail 2025.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\Test Hotmail 2025.pdb
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\Test Hotmail 2025.genruntimeconfig.cache
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\obj\Debug\net8.0-windows\ref\Test Hotmail 2025.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\MailKit.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\MimeKit.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Money\Web\Test Hotmail 2025\Test Hotmail 2025\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
